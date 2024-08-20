@@ -1,0 +1,12 @@
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\Contract\bin\Debug\net8.0\Domain.deps.json
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\Contract\bin\Debug\net8.0\Domain.dll
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\Contract\bin\Debug\net8.0\Domain.pdb
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\Contract\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\Contract\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\Contract\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\Contract\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\Contract\obj\Debug\net8.0\Domain.sourcelink.json
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\Contract\obj\Debug\net8.0\Domain.dll
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\Contract\obj\Debug\net8.0\refint\Domain.dll
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\Contract\obj\Debug\net8.0\Domain.pdb
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\Contract\obj\Debug\net8.0\ref\Domain.dll

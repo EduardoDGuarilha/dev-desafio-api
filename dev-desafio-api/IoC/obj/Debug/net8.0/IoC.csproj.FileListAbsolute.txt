@@ -1,0 +1,12 @@
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\IoC\bin\Debug\net8.0\IoC.deps.json
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\IoC\bin\Debug\net8.0\IoC.dll
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\IoC\bin\Debug\net8.0\IoC.pdb
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\IoC\obj\Debug\net8.0\IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\IoC\obj\Debug\net8.0\IoC.AssemblyInfoInputs.cache
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\IoC\obj\Debug\net8.0\IoC.AssemblyInfo.cs
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\IoC\obj\Debug\net8.0\IoC.csproj.CoreCompileInputs.cache
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\IoC\obj\Debug\net8.0\IoC.sourcelink.json
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\IoC\obj\Debug\net8.0\IoC.dll
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\IoC\obj\Debug\net8.0\refint\IoC.dll
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\IoC\obj\Debug\net8.0\IoC.pdb
+C:\fnt\Teste-Tecnico-Magva\dev-desafio-api\dev-desafio-api\IoC\obj\Debug\net8.0\ref\IoC.dll
